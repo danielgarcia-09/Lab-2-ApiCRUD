@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\ApiCRUD.Services\obj\Debug\net5.0\ApiCRUD.Services.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\ApiCRUD.Services\obj\Debug\net5.0\ApiCRUD.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\ApiCRUD.Services\obj\Debug\net5.0\ApiCRUD.Services.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ApiCRUD.Services\obj\Debug\net5.0\ApiCRUD.Services.AssemblyInfo.cs
+C:\Users\danie\source\repos\ApiCRUD.Services\obj\Debug\net5.0\ApiCRUD.Services.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ApiCRUD.Services\bin\Debug\net5.0\ApiCRUD.Services.deps.json
+C:\Users\danie\source\repos\ApiCRUD.Services\bin\Debug\net5.0\ApiCRUD.Services.dll
+C:\Users\danie\source\repos\ApiCRUD.Services\bin\Debug\net5.0\ref\ApiCRUD.Services.dll
+C:\Users\danie\source\repos\ApiCRUD.Services\bin\Debug\net5.0\ApiCRUD.Services.pdb
+C:\Users\danie\source\repos\ApiCRUD.Services\bin\Debug\net5.0\ApiCRUD.Bl.dll
+C:\Users\danie\source\repos\ApiCRUD.Services\bin\Debug\net5.0\ApiCRUD.Model.dll
+C:\Users\danie\source\repos\ApiCRUD.Services\bin\Debug\net5.0\ApiCRUD.Bl.pdb
+C:\Users\danie\source\repos\ApiCRUD.Services\bin\Debug\net5.0\ApiCRUD.Model.pdb
+C:\Users\danie\source\repos\ApiCRUD.Services\obj\Debug\net5.0\ApiCRUD.Services.csproj.CopyComplete
+C:\Users\danie\source\repos\ApiCRUD.Services\obj\Debug\net5.0\ApiCRUD.Services.dll
+C:\Users\danie\source\repos\ApiCRUD.Services\obj\Debug\net5.0\ref\ApiCRUD.Services.dll
+C:\Users\danie\source\repos\ApiCRUD.Services\obj\Debug\net5.0\ApiCRUD.Services.pdb

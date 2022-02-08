@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\ApiCRUD.Core\bin\Debug\net5.0\ApiCRUD.Core.deps.json
+C:\Users\danie\source\repos\ApiCRUD.Core\bin\Debug\net5.0\ApiCRUD.Core.dll
+C:\Users\danie\source\repos\ApiCRUD.Core\bin\Debug\net5.0\ref\ApiCRUD.Core.dll
+C:\Users\danie\source\repos\ApiCRUD.Core\bin\Debug\net5.0\ApiCRUD.Core.pdb
+C:\Users\danie\source\repos\ApiCRUD.Core\obj\Debug\net5.0\ApiCRUD.Core.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\ApiCRUD.Core\obj\Debug\net5.0\ApiCRUD.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\ApiCRUD.Core\obj\Debug\net5.0\ApiCRUD.Core.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ApiCRUD.Core\obj\Debug\net5.0\ApiCRUD.Core.AssemblyInfo.cs
+C:\Users\danie\source\repos\ApiCRUD.Core\obj\Debug\net5.0\ApiCRUD.Core.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ApiCRUD.Core\obj\Debug\net5.0\ApiCRUD.Core.dll
+C:\Users\danie\source\repos\ApiCRUD.Core\obj\Debug\net5.0\ref\ApiCRUD.Core.dll
+C:\Users\danie\source\repos\ApiCRUD.Core\obj\Debug\net5.0\ApiCRUD.Core.pdb

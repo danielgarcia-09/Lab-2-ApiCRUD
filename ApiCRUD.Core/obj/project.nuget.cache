@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pZi90tj+HDzp2Z/JO9QlA+TijI4deRyYrWy55TUgnRRkPuHT3MvKp8d6Bv63eycQMDKc+b36Tn/jF09yyMP0aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\source\\repos\\ApiCRUD.Core\\ApiCRUD.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
